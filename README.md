@@ -21,7 +21,7 @@ The first of these tuples identifies the sender of the packet.
 
 The following network topology was constructed:
 
-![Sample Network](/network.png)
+![Sample Network](/img/network.png)
 
 Each node is named after its receiving port number. An instance of the router
 program was run for each node in the network. All instances were run on the
