@@ -5,7 +5,7 @@ from threading import Thread
 import time
 
 BUFFER_SIZE = 1024
-UPDATE_INTERVAL = 1.0
+UPDATE_INTERVAL = 5.0
 ROUTING_TABLE_FMT = '{:<20}{:<20}{:<20}{:<20}'
 
 
